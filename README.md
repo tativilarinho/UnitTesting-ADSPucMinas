@@ -1,6 +1,6 @@
-# Análise e Desenvolvimento de Sisitema - PUC Minas
-#Disciplina Qualidade de Software e Testes 
-#Módulo: Testes de Unidade 
+# Análise e Desenvolvimento de Sistemas - PUC Minas
+## Disciplina Qualidade de Software e Testes 
+## Módulo: Testes de Unidade 
 
 Este documento descreve a suíte de testes unitários para o módulo `greeting.js`. Os testes foram escritos para garantir que a função responsável por dar as boas-vindas aos alunos funcione corretamente e trate entradas inválidas de forma segura.
 
